@@ -24,10 +24,6 @@ Features:
 - 2 modes: sync and async
 
 
-More:
-
-
-
 Project page
 ====
 http://projects.ez.no/sync
